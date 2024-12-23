@@ -1,4 +1,6 @@
 # Waste Classification Using Machine Learning and SCARA Robotic Arm
+![Artboard 2](https://github.com/user-attachments/assets/3040fd8b-fdbb-46a1-935c-7b2bf98be8c8)
+
 Waste Classification Using Machine Learning and SCARA Robotic Arm
 This project introduces an innovative solution to automate waste segregation using a SCARA Robot enhanced with computer vision and machine learning. The project used a pre-deployed AI model to classify the objects into organic or inorganic waste. At its core, the project utilises a Raspberry Pi paired with a USB camera to capture images of waste materials, this captured image is then processed with the help of inference SDK and the Roboflow waste classification API. Once classified, the robotic arm, controlled by an ESP32-C6 WROOM module, handles the waste, placing it into designated bins. This integration of robotics and artificial intelligence not only enhances automation but also contributes to effective waste management solutions.
 
