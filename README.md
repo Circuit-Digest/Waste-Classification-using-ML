@@ -1,4 +1,4 @@
-# Waste Classification Using Machine Learning and SCARA Robotic Arm
+# [Waste Classification Using Machine Learning and SCARA Robotic Arm](https://circuitdigest.com/videos/waste-classification-using-machine-learning-and-scara-robotic-arm)
 ![Artboard 2](https://github.com/user-attachments/assets/3040fd8b-fdbb-46a1-935c-7b2bf98be8c8)
 
 Waste Classification Using Machine Learning and SCARA Robotic Arm
